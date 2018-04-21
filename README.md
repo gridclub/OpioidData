@@ -5,14 +5,14 @@ or to find your own (supplementary) data.
 
 ## U.S. Opioid Prescriptions / Overdoses
 
-[Link to data](https://www.kaggle.com/apryor6/us-opiate-prescriptions).
+[Link to data](https://www.kaggle.com/apryor6/us-opiate-prescriptions)
 
 - ~20Mb of data on overdoses per state and prescriber information
 - Must sign up for the competition to get the data
 
 ## Accidental Drug Related Deaths 2012-2017
 
-[Link to data](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015).
+[Link to data](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
 
 - ~1Mb of 5 years of data on Connecticut individuals’ drug-related deaths
 - Sex, race, city, county, location of death (city, county, location), place of injury
